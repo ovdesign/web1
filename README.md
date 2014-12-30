@@ -1,9 +1,7 @@
 web1
 ====
 
-web1 site 変更 
-
-*コイズミ
+web1 site 変更
 
 ====
 
